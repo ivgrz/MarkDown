@@ -17,3 +17,12 @@
 
 ![gato](img/abc.jpg)
 
+# **negrita**
+
+# _cursiva_
+
+`git status`
+
+```
+huhuh
+```
