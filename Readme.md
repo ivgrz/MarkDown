@@ -8,15 +8,15 @@
 <sup>superindice</sup>
 
 ~~si~~  
-~~no~~  
-
-![Messi](https://pbs.twimg.com/media/E8C8AP6XEAkvlmW.jpg)
-
+~~no~~
 
 ![gato3](https://i.pinimg.com/736x/95/18/c7/9518c7baecedd451cc171af7ec775a51.jpg)
 
-![gato](img/abc.jpg)
+![gato](https://i.pinimg.com/1200x/a9/71/f4/a971f46c3e83848cc350e59e9ca12df4.jpg)
 
+![gato4](/img/abc.jpg)
+
+![gato5](/img/5.jpeg)
 # **negrita**
 
 # _cursiva_
