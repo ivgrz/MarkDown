@@ -37,3 +37,7 @@ Comentario
 
 ~~si~~  
 ~~no~~
+
+```
+codigo nuevo
+```
