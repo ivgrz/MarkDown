@@ -3,7 +3,7 @@
 
 # ola
 
-
+<sup>q tal</sup> 
 
 ![gato2](https://i.pinimg.com/564x/b0/a4/c2/b0a4c26777707c9e3121e735faa3b71c.jpg)
 
@@ -27,13 +27,14 @@ Comentario
 - George Washington
 * John Adams
 + Thomas Jefferson
-* Daniel Rodriguez
+* Tato
++ Figue
 
 1. First list item
     - First nested list item
         - Second nested list item
           <sub>subindice</sub>  
-          <sup>superindice</sup>
+          
 
 ~~si~~  
 ~~no~~
